@@ -1,6 +1,6 @@
 ### Hi there, I'm [Mairon !](https://github.com/MaironDev) 👋.  
 <br/>
-<a href="https://www.linkedin.com/in/maironhernandez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/maironhernandez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp
 <a href="https://instagram.com/mairondev"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 
