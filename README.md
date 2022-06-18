@@ -22,7 +22,7 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Html" style="vertical-align:top; margin:4px"> &nbsp  &nbsp <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Javascript" style="vertical-align:top; margin:4px">  &nbsp  &nbsp <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">    &nbsp &nbsp<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/django.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+ 
 
 </p>
 
