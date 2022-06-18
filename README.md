@@ -3,8 +3,9 @@
 <a href="https://twitter.com/MaironDev">
   <img align="left" alt="MaironDev| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+
 <a href="https://www.linkedin.com/in/maironhernandez/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="22px" src="https://github.com/MaironDev/MaironDev/blob/main/assets/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/mairondev/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
