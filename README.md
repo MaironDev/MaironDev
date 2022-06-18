@@ -1,11 +1,11 @@
 ### Hi there, I'm [Mairon !](https://github.com/MaironDev) 👋.  
 <br/>
 <a href="https://twitter.com/MaironDev">
-  <img align="left" alt="MaironDev| Twitter" width="22px" src="https://github.com/MaironDev/MaironDev/blob/main/assets/twitter.svg" />
+  <img align="left" alt="Twitter" width="40px" src="https://github.com/MaironDev/MaironDev/blob/main/assets/twitter.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/maironhernandez/">
-  <img align="left" alt="Linkedin" width="30px" src="https://github.com/MaironDev/MaironDev/blob/main/assets/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="40px" src="https://github.com/MaironDev/MaironDev/blob/main/assets/linkedin.svg" />
 </a>
 
 
