@@ -1,15 +1,13 @@
 ### Hi there, I'm [Mairon !](https://github.com/MaironDev) 👋.  
 <br/>
 <a href="https://twitter.com/MaironDev">
-  <img align="left" alt="MaironDev| Twitter" width="22px" src="https://github.com/MaironDev/MaironDev/blob/main/assets/gorjeo.png" />
+  <img align="left" alt="MaironDev| Twitter" width="22px" src="https://github.com/MaironDev/MaironDev/blob/main/assets/twitter.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/maironhernandez/">
-  <img align="left" alt="Linkedin" width="22px" src="https://github.com/MaironDev/MaironDev/blob/main/assets/linkedin.png" />
+  <img align="left" alt="Linkedin" width="22px" src="https://github.com/MaironDev/MaironDev/blob/main/assets/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/mairondev/">
-  <img align="left" alt="Instagram" width="22px" src="https://github.com/MaironDev/MaironDev/blob/main/assets/instagram.png" />
-</a>
+
 
 <br />
 
