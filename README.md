@@ -1,6 +1,4 @@
-### Hi there, I'm [Mairon !](https://github.com/MaironDev) 👋.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
-
-
+### Hi there, I'm [Mairon !](https://github.com/MaironDev) 👋.  
 <br/>
 <a href="https://twitter.com/MaironDev">
   <img align="left" alt="MaironDev| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
