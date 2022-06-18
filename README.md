@@ -11,7 +11,7 @@
 <br>
 <br>
 
-### Hi 🙋‍♂️,
+
 ### I'm 23 years old Self-taught Backend developer from Colombia.
 
 
