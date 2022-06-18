@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/maironhernandez/">
-  <img align="left" alt="Linkedin" width="22px" src="https://github.com/MaironDev/MaironDev/blob/main/assets/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="30px" src="https://github.com/MaironDev/MaironDev/blob/main/assets/linkedin.svg" />
 </a>
 
 
