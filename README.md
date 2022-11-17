@@ -12,7 +12,3 @@
 
 </p>
 
-
-
-
-⭐️ From [MaironDev](https://github.com/MaironDev)
