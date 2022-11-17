@@ -15,8 +15,4 @@
 
 
 
-#### Thank You-🙏🏼
-
-
-
 ⭐️ From [MaironDev](https://github.com/MaironDev)
